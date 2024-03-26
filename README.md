@@ -1,6 +1,7 @@
 # natural-disaster-classification-lime-shap
-K Akshitha (2024) published research explores natural disaster classification using machine learning.(plese do not copy)As the paper is copyrighted under IEEE
-
+K Akshitha (2024) published research explores natural disaster classification using machine learning.(plese do not copy)As the paper is copyrighted under IEEE.
+This code is provided as a learning resource. Feel free to suggest improvements! 
+You can run it in any Python IDE.
 
 This study explores machine learning for classifying natural disasters. It compares Random Forest and XGBoost algorithms, optimizing their hyperparameters for better performance. Explainable AI (XAI) techniques, Lime and Shap, offer insights into XGBoost's decision-making process (72% accuracy). These techniques reveal key features like 'No Injuries' and 'Total Damages' that significantly impact XGBoost's predictions. Contribution graphs visually represent the importance of these features. XGBoost outperforms other algorithms, demonstrating its effectiveness in disaster classification. Importantly, the study highlights the value of XAI in boosting accuracy and fostering a deeper understanding of the model's choices. This not only improves model interpretability but also advances the field of disaster classification and opens doors for broader XAI applications.
 This study explored using machine learning algorithms, specifically Random Forest and XGBoost, to classify natural disasters. The dataset contained 8,946 entries with 15 attributes (13 numerical, 2 categorical). Label encoding was used to convert categorical data to numerical values.
